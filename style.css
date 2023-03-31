@@ -9,13 +9,13 @@ body {
 }
 
 .header {
-    background-color: #8a817c;
+    background-color: #052d78eb;
     font-family: Ubuntu;
 }
 
 .header h1 {
     font-size: 47px;
-    color: black
+    color: white;
 }
 
 .header h4 {
@@ -28,13 +28,13 @@ body {
     width: 90%;
     margin: 0;
     padding: 10px 0 35px 0;
-    color: black;
+    color: white;
     font-family: Ubuntu;
 }
 
 .personal_details {
-    background: #bcb8b1;
-    color: black;
+    background: #04245feb;
+    color: white;
 }
 
 .personal_details .btn-group {
@@ -53,7 +53,7 @@ body {
 
 .title {
     display: inline-block;
-    color: #8a817c;
+    color: #35b34b;
     font-size: 28px;
     font-weight: 600;
     /* border-bottom: 3px solid #35b34b; */
@@ -85,18 +85,18 @@ body {
 
 .detail-head i{
     text-decoration: none;
-    color: #8a817c;
+    color: #35b34b;
     padding-left: 6px;
     font-size: 18px
 }
 
 .duration span {
-    color: #8a817c;
+    color: #35b34b;
     font-style: italic;
 }
 
 .job-title {
-    color: #8a817c;
+    color: #35b34b;
     font-weight: 600;
     font-size: 17px;
 }
@@ -124,7 +124,7 @@ body {
 .job-description>li::before,
 .project-name ul li::before {
     font-size: 20px;
-    color: #8a817c;
+    color: #35b34b;
     content: '\2022';
     margin-left: -1em;
     padding-right: 8px;
@@ -132,7 +132,7 @@ body {
 
 
 .contact span:first-child {
-    color: #8a817c;
+    color: #35b34b;
     font-style: italic;
 }
 
@@ -201,7 +201,7 @@ body {
 }
 
 .personal_details span a {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
